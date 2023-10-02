@@ -1,6 +1,7 @@
 ---
 title: 'Reinforced Learning - DQN'
 date: 2023-10-01
+collection: research
 permalink: /research/2023/10/reinforced-learning/
 tags:
   - reinforced learning
