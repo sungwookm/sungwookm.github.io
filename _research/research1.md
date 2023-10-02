@@ -17,5 +17,5 @@ DQN is a combination of Q-learning, a classic RL algorithm, alongside deep neura
 
 The demo is a Google Colab link to the OpenAI GYM cartpole example included in the presentation.
 
-<a href="../../external_files/SAN_airport_viz/index.html" class="demo_btn btn" style="text_">Demo</a>
-<a href="https://github.com/taekunkim/SAN_airport_viz" class="github_btn btn"><i class="fab fa-fw fa-github" aria-hidden="true"></i> GitHub</a>
+<a href="../../external_files/dqn presentation - sungwook min.pdf" class="demo_btn btn" style="text_">Presentation</a>
+<a href="https://colab.research.google.com/drive/1ByU4vEpQjyya3Jwch2ikW3R4MhfAtj4i?usp=sharing" class="demo_btn btn" style="text_">Demo</a>
