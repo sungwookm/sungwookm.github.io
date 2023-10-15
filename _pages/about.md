@@ -7,8 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-**Hi, I'm Sungwook.**
-
+**Hi, I'm Sungwook.**  
 I'm a junior currently studying *Cognitive Science with a specialization in Machine Learning and Neural Computation* at UC San Diego. I'm originally from Seoul, Korea but I've also lived in Dubai, Minneapolis, and am currently based in San Diego.
 
 Currently, I'm an undergraduate researcher at the [ISN Lab](https://isn.ucsd.edu/index.php) working on EEG data analysis and development of games that are played to collect EEG data using [CGX-32R](https://www.cgxsystems.com/quick-32r) headsets.
