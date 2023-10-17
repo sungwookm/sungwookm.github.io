@@ -2,13 +2,11 @@
 title: 'Reinforced Learning - DQN'
 date: 2023-10-01
 collection: research
-permalink: /research/2023/10/reinforced-learning/
 tags:
   - reinforced learning
   - dqn
   - ai
 ---
-
 This summer I worked as a research intern at [Seoul National University Artificial Intelligence Institute's Biointellignece Lab](https://bi.snu.ac.kr/) under the guidance of Professor Byoung-Tak Zhang.
 During a 3 month research intern period, I primarily conducted research on machine learning, focusing on the areas of reinforced learning (RL) and neural networks.
 My research topics also included topics such as decision-making under uncertainty, predicting outcomes, and RL in partially observable and noisy environments.
