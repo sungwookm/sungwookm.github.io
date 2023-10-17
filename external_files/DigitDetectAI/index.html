@@ -22,7 +22,8 @@
 
 <canvas id="digitCanvas" width="280" height="280"></canvas>
 <button onclick="predictDigit()">Predict</button>
-<button onclick="resetCanvas()">Reset</button> <!-- Added Reset button -->
+<button onclick="resetCanvas()">Reset</button>
+<button onclick="goBackToWebsite()">Back to Website</button> <!-- Added Back to Website button -->
 
 <script>
     const canvas = document.getElementById('digitCanvas');
@@ -40,7 +41,7 @@
     function draw(event) {
         if (!drawing) return;
         ctx.lineWidth = 10;
-        ctx.strokeStyle = "white"; // Set the stroke color to white
+        ctx.strokeStyle = "white";
         ctx.lineCap = 'round';
 
         ctx.lineTo(event.clientX - canvas.offsetLeft, event.clientY - canvas.offsetTop);
@@ -72,6 +73,11 @@
     function resetCanvas() {
         ctx.fillStyle = "black";
         ctx.fillRect(0, 0, canvas.width, canvas.height);
+    }
+
+    // Function to redirect to the website
+    function goBackToWebsite() {
+        window.location.href = "https://sungwookm.github.io/projects/digitdetectai/";
     }
 </script>
 
